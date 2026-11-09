@@ -1,0 +1,6 @@
+{
+  "name": "Kopi Tepi Delta",
+  "description": "Website bisnis coffee shop elegan, aesthetic, dan modern Kopi Tepi Delta lengkap dengan pemesanan simulasi dan dashboard analitik admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
